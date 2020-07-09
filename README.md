@@ -171,7 +171,6 @@ Para finalizar el ejercicio deberás crear las siguientes pantallas con ReactJS 
 
 ## Recomendaciones
 
-- Añadir animaciones suma puntos!
 - Has código legible y bien documentado!
 - Sé lo más creativo posible!
 
